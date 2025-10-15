@@ -1,5 +1,5 @@
-# Numerical Computing (Full Course in Urdu) 
+# Numerical Computing
 
-recluze.net 
-
-See full video course here: https://www.youtube.com/playlist?list=PLnd7R4Mcw3rIpsOe-lijX3jtpUwPmK8n6 
+**Tutor:** Mohammad Nauman  
+**Website:** https://recluze.net/  
+**Playlist:** https://www.youtube.com/playlist?list=PLnd7R4Mcw3rIpsOe-lijX3jtpUwPmK8n6  
